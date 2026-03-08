@@ -45,4 +45,4 @@ https://insurance-cost-prediction-03c8.onrender.com
 
 ## Application Preview
 
-![App Screenshot](Screenshot.png)
+![App screenshot](screenshot.png)
