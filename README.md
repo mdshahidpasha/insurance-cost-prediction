@@ -1,6 +1,12 @@
 # Insurance Cost Prediction Web App
 
 This project predicts medical insurance costs using Machine Learning and Flask.
+# Insurance Cost Prediction Web App
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Flask-Web%20App-black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Model-green)
+![Deployment](https://img.shields.io/badge/Deployment-Render-purple)
 
 ## Technologies Used
 - Python
