@@ -51,8 +51,6 @@ python app.py
 
 3. Open browser
 
-http://127.0.0.1:5000
-
 ## Live Demo
 
 https://insurance-cost-prediction-03c8.onrender.com
